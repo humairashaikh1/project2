@@ -1,0 +1,149 @@
+<html>
+    <head>
+          <title>RR-IRON FITNESS</title>
+          <link rel="stylesheet" href="a.css">
+          <style>
+            #bod{
+                margin:15%;
+                padding:3%;
+                text-align: center;
+                border: 1px ridge black;
+                background-image: url("https://tse1.mm.bing.net/th?id=OIP.7CctQuz456lVVxQZWqU2KwHaHa&pid=Api&P=0");
+                background-repeat: no-repeat;
+                background-size: 1500%;
+            }
+            .p {
+                border:8px groove black;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:30px;
+                
+            }
+            div1{
+                font-size: x-large;
+                color:teal;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            div2{
+                font-size: x-large;
+                color:teal; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            div3{
+                font-size: x-large;
+                color:teal; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            div4{
+                font-size: x-large;
+                color:teal; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                
+            }
+            div5{
+                font-size: x-large;
+                color:teal; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                
+            }
+            div6{
+                font-size: x-large;
+                color:teal; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+          </style>
+          
+    </head>
+    <body>
+
+        <header style="color: rgba(239, 142, 24, 0.979);">
+            RR-IRON FITNESS
+        </header>
+        <nav id="nav">
+            <ul>
+            <a href="1.html">HOME</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="about.html">ABOUT US</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="packages.html">PACKAGES</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="whychooseus.html">WHY US?</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="schedule.html">SCHEDULE</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="contac.html">CONTACT</a>
+            &nbsp;&nbsp;&nbsp;
+            </ul>
+        </nav><br><br><br><br>
+        <section class="section" style="text-align: center;">
+            
+            <h1 style="color: rgba(255, 255, 255, 0.763);"> GO HARD OR GO HOME</h1>
+            <h3 style="color: rgba(255, 255, 255, 0.763);">Nice looking body and powerful organism are <br>interconnected and we can help you with both </h3>&nbsp;&nbsp;&nbsp;&nbsp;
+            <br><br><br><br>
+            
+            <marquee>
+                <img src="https://media.istockphoto.com/photos/young-sports-woman-with-ponytail-working-out-in-the-gym-running-on-picture-id1127359002?b=1&k=20&m=1127359002&s=170667a&w=0&h=Vmvzj4xe1BjLXGPoRnoyLxNyMHWrg5OYJ1XtGBWgqbA=" height="280px" width="380px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://media.istockphoto.com/photos/man-holding-ball-and-doing-squats-picture-id1277242858?k=20&m=1277242858&s=612x612&w=0&h=rp7CCYf3j9FNHuoZw016kjVHDfq-nE4OzkHAL4ynplU=" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.pixabay.com/photo/2016/11/22/22/24/adult-1850925__480.jpg" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.pixabay.com/photo/2018/07/26/12/05/man-3563462__480.jpg" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuz_RjIit4jYs1z9ZjVNKfIlfu-b-5V6_a4A&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIY2HwW55USk0Y7dqcz9C9yvFBQNDsoxElg&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDb9830pgj6-GZxkmUg3uish7ON0h0uVsCfA&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHnWoRhsU9SvgW0Xu_HkOJ_TILRNm2NJIDg&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZc6DR5KNFQhYQA5o9xDh9pRP9fAX5W4RzA&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxScyTmBY5Ck1sOUEG24hE5HgmXFJmzRuz-w&usqp=CAU" height="280px" width="380px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </marquee>
+            
+        
+        </section><br><br><br><br>
+          <div style="height: 800px; width:1250px; overflow: auto ; text-align: center;">
+          <section id="bod" style="height: 2700px; border-width:2px; border-style:solid">
+            <h1 class="p" style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;"><u>OUR MISSION</u></h1>
+            <p class="p">The thought for RR IRON FITNESS started with the intention to inspire our members to accomplish their fitness goals by providing decent number of courses. </p>
+            <h2><u>WHAT WE OFFER</u></h2>
+            <div1><u>- BODY BUILDING -</u></div1><br>
+            <img src="https://cdn1.vectorstock.com/i/thumb-large/94/15/gym-bodybuilding-logo-or-label-strong-man-vector-20539415.jpg"><br>
+            <p1>Body building makes not only a fit body, but also fit mind.Developing the<br> musculature of the body through specific types of diet and physical exercise,<br> such as weightlifting, especially for competitive exhibition.</p1><br><br>
+            <div2><u>- MUSCLE GAIN -</u></div2><br>
+            <img src="https://cdn.vectorstock.com/i/thumb-large/13/23/increase-hand-muscle-icon-on-white-background-vector-36571323.webp"><br>
+            <p2>Muscle size increases when a person continually challenges the muscles<br> to deal with higher levels of resistance or weight,<br>it makes you more self-confident.</p2><br><br>
+            <div3><u>- WEIGHT LOSS -</u></div3><br>
+            <img src="https://cdn.vectorstock.com/i/thumb-large/78/95/fat-man-turns-into-thin-figure-vector-36587895.webp"><br>
+            <p3>Add more self-confidence to your life.When your body burns stored fat,<br>you lose weight.Cardio is the most effective physical activity for losing<br> weight you lose weight.</p3><br><br>
+            <div4><u>- PERSONAL TRAINING -</u></div4><br>
+            <img src="https://www.shutterstock.com/image-vector/fitness-trainer-workout-gym-professional-600w-2156931249.jpg"><br><br>
+            <p4>To develop an individualized program to support weight loss goals, get in <br>shape, or feel that you'd benefit from the additional accountability <br>or instruction, a personal trainer can be a great resource.</p4><br><br>
+            <div5><u>- GROUP TRAINING -</u></div5><br>
+            <img src="https://cdn.vectorstock.com/i/thumb-large/89/37/yoga-fitness-classes-instructor-trainer-isolated-vector-37638937.webp"><br><br>
+            <p5>When it comes to fitness, working out in group settings can boost motivation,<br> burn more calories and make exercise fun.For most people, it’s difficult<br> to stay consistent with workout routines, but having a certain<br> group helps to be successful.</p5><br><br>
+            <div6><u>- FOR BEGINNERS -</u></div6><br>
+            <img src="https://cdn.vectorstock.com/i/thumb-large/98/70/beginner-vector-21909870.webp"><br><br>
+            <p6>For a beginner's workout to be effective, one needs to be patient and build your<br> stamina gradually.And most importantly,Stay consistent</p6><br><br>
+          </section>
+          </div><br><br>
+           <section class="can" style="text-align: center;">
+                    
+            <h1 style="color: rgba(255, 255, 255, 0.763);"> WANT RESULTS WORK FOR YOURSELF</h1>
+            <h3 style="color: rgba(255, 255, 255, 0.763);">GET YOUR BODY IN PERFECT SHAPE </h3>&nbsp;&nbsp;&nbsp;&nbsp;
+            <br><br><br><br>
+                
+                    <video width="1250" height="500" controls>
+                       
+                    
+                    <source src="https://player.vimeo.com/external/542208083.sd.mp4?s=d7b51b451baacaec7cfffc715f4f47c65c979dd5&profile_id=164&oauth2_token_id=57447761">
+                    
+                  </video>
+            
+            
+            
+             </section> <br><br><br><br>
+             <section>
+                
+             </section>
+        
+           
+        
+              
+        
+        
+    </body>
+</html>
